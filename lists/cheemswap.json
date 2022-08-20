@@ -4,7 +4,7 @@
   "version": {
     "major": 2,
     "minor": 4,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/cheemswap/cheemswap-token-lists/main/cheems.svg",
@@ -16,7 +16,7 @@
     {
       "name": "CHEEMS Token",
       "symbol": "CHEEMS",
-      "address": "0x51050fB1bc7d813b99E5f86C173859b07E4A7688",
+      "address": "0x7113185E1f672ea05789981E8793f70D2008030a",
       "chainId": 2000,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cheemswap/cheemswap-token-lists/main/assets/CHEEMS.svg"
