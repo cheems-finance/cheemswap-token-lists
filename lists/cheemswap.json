@@ -16,7 +16,7 @@
     {
       "name": "CHEEMS Token",
       "symbol": "CHEEMS",
-      "address": "0x7113185E1f672ea05789981E8793f70D2008030a",
+      "address": "0x7d686b37CdCa9dE7c3CB75601E028383675153d2",
       "chainId": 2000,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/cheemswap/cheemswap-token-lists/main/assets/CHEEMS.svg"
